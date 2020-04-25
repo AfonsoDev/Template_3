@@ -2,3 +2,8 @@
     width: 100%;
     height: 580px;
 }
+.wiget-color{
+    right: 20px;
+    font-size: 40px;
+    color: darkcyan;
+}
